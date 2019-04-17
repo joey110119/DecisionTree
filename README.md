@@ -6,7 +6,7 @@ The Data from : https://www.kaggle.com/abcsds/pokemon
 ## 資料分析目標與推測
 ### 目標
 把 Pokemon 中龍屬性，飛行屬性，或是蟲屬性的篩選出來，以此為 y 值。
-是則 y 為1，否則 y 為0。(Boolean Value)
+有這三種屬性之一則 y 為1，反之則 y 為0。(Boolean Value)
 
 ### 推測
 decision tree 的 node 部份，我認為：
