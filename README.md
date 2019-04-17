@@ -1,5 +1,6 @@
 # DecisionTree
-DecisionTree pracrice on Jupyter
+DecisionTree pracrice on Jupyter.
+
 The Data from : https://www.kaggle.com/abcsds/pokemon 
 
 ## 資料分析目標與推測
