@@ -30,6 +30,6 @@ HP, Speed, att_minus_def, sp_att_minus_def
 以及對應的 fast?(Boolean Value)
 這些 feature 分別代表
 * HP: 母 Data 即有的資料
-* Speed: 母 Dara 即有的資料
+* Speed: 母 Data 即有的資料
 * att_minus_def: 物理攻擊-物理防禦的值，所以正值的話代表物理攻擊大於物理防禦，反之則小於
 * sp_att_minus_def: 特殊攻擊-特殊防禦的值，所以正值的話代表特殊攻擊大於特殊防禦，反之則小於
